@@ -1,6 +1,6 @@
 // support -> num
 
-package main
+package num
 
 import (
 	"strconv"
