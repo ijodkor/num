@@ -21,9 +21,6 @@
 vendor/
 /tmp
 
-# Go workspace file
-go.work
-
 # misc
 .DS_Store
 
